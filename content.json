@@ -1,0 +1,50 @@
+{
+  "name": "Taymour Chalak",
+  "instagram": "https://www.instagram.com/taymourchalak/",
+  "projects": [
+    {
+      "id": "DePYEUuMSP2",
+      "title": "Project 01",
+      "tag": "Instagram Reel",
+      "url": "https://www.instagram.com/reel/DePYEUuMSP2/",
+      "cover": "images/DePYEUuMSP2.jpg",
+      "alt": "Original reel cover: a speaker in a white polo with Arabic motion graphics."
+    },
+    {
+      "id": "Dfhv-PFONwQ",
+      "title": "Project 02",
+      "tag": "Instagram Reel",
+      "url": "https://www.instagram.com/reel/Dfhv-PFONwQ/",
+      "cover": "images/Dfhv-PFONwQ.jpg",
+      "alt": "Original reel cover: a seated speaker with editing, camera and growth graphics."
+    },
+    {
+      "id": "DegX4iZjEf_",
+      "title": "Project 03",
+      "tag": "Instagram Reel",
+      "url": "https://www.instagram.com/reel/DegX4iZjEf_/",
+      "cover": "images/DegX4iZjEf_.jpg",
+      "alt": "Original reel cover: blue sand in a round container with an Arabic caption."
+    }
+  ],
+  "services": [
+    {
+      "name": "Short-form editing",
+      "description": "Reels, TikToks and Shorts with fast pacing, strong hooks and a story worth staying for.",
+      "label": "THE CUT",
+      "icon": "cut"
+    },
+    {
+      "name": "Color & grading",
+      "description": "Cinematic color that brings your footage together and gives every frame a consistent feel.",
+      "label": "THE LOOK",
+      "icon": "color"
+    },
+    {
+      "name": "Sound & motion",
+      "description": "Clean audio, music sync, captions and motion details that make the whole edit click.",
+      "label": "THE RHYTHM",
+      "icon": "sound"
+    }
+  ]
+}
