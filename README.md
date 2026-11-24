@@ -33,7 +33,7 @@ Les projets et les services sont définis dans **content.json**. Pour chaque pro
 - `cover` : chemin du fichier local, relatif à `static/` ;
 - `alt` : description courte de la couverture.
 
-Placer les nouvelles couvertures dans **static/images/**. Les trois couvertures livrées proviennent des trois liens du portfolio original, récupérées le 24 novembre 2026. Elles sont stockées localement : aucun scraping, jeton, URL de CDN temporaire ou connexion Instagram n’est nécessaire pour les afficher. La photo de profil vient du profil public fourni.
+Placer les nouvelles couvertures dans **static/images/**. Les couvertures livrées proviennent des reels sélectionnés, récupérées le 24 novembre 2026. Le premier projet présente le reel « Life in 2040 » de @taymourchalak. Elles sont stockées localement : aucun scraping, jeton, URL de CDN temporaire ou connexion Instagram n’est nécessaire pour les afficher. La photo de profil vient du profil public fourni.
 
 La galerie ouvre le lecteur intégré Instagram uniquement après un clic. Instagram peut imposer une connexion ou empêcher l’intégration selon le visiteur, les cookies, la confidentialité du reel ou ses paramètres d’intégration. Le lien **Open on Instagram** reste toujours disponible. Sans JavaScript, les cartes ouvrent directement leurs liens originaux.
 
